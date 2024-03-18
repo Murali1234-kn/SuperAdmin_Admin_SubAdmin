@@ -1,0 +1,93 @@
+#bt1 {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    font-size: large;
+    border-radius: 20%;
+}
+.class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+span{
+    color: red;
+}
+.class-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#form{
+    border: 1px solid black;
+    width: 100%;
+    border-radius: 6px;
+    padding: 10px;
+    display: grid;
+}
+.breadcrumb-item{
+    display:unset ;
+    font-size: 20px;
+}
+#bt1 {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    font-size: large;
+    border-radius: 20%;
+}
+.main {
+    border: 1px solid black;
+    padding: 10px;
+    width: 75%;
+
+}
+.class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+span{
+    color: red;
+}
+.designation_name{
+    padding: 5px;
+}
+
+.breadcrumb-item {
+    display: unset;
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+#bt1 {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    font-size: large;
+    border-radius: 20%;
+}
+.class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+#designationName_Err{
+    color: red;
+}
+
+.breadcrumb-item {
+    display: unset;
+    font-size: 20px;
+}
+#bt1 {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    font-size: large;
+    border-radius: 20%;
+}
